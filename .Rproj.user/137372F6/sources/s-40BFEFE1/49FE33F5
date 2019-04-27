@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555922983347.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "49FE33F5",
+    "lastKnownWriteTime" : 1555932589,
+    "last_content_update" : 1555933013150,
+    "path" : "C:/Users/Eric/OneDrive/Documents/INFO 474/Homework 2/script.R",
+    "project_path" : "script.R",
+    "properties" : {
+        "cursorPosition" : "20,0",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
